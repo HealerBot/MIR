@@ -22,6 +22,9 @@
 - Recall VFX
 - Auto vote for epic monster take notifications
 
+[Other]
+- HealerAIO supports both DX9/DX11 versions
+
 -------------------------------
  --[ How to use Healer AIO ]--
 -------------------------------

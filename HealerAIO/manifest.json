@@ -1,1 +1,12 @@
-{"script_entry": "HealerAIO.dll", "display_name": "HealerAIO", "author": "Healer", "version": "1.01", "icon": "../icon.png", "search_tags": "aio;awareness;utility;autolevel;tracker;", "enabled_by_default": true, "is_libbotm_lapi": true, "13_11_511_6414_cn": "HealerAIO.dll", "13_14_520_6878_riot": "HealerAIO.dll", "13_15_524_1760_riot": "HealerAIO.dll", "13_16_525_6443_riot": "HealerAIO.dll", "script_uuid" : "39c12018-0847-4e13-ac99-a15c5e0096c9"}
+{
+  "script_entry": "HealerAIO.dll",
+  "display_name": "HealerAIO",
+  "author": "Healer",
+  "version": "1.0.2",
+  "icon": "../icon.png",
+  "search_tags": "aio;awareness;utility;autolevel;tracker;",
+  "script_uuid": "39c12018-0847-4e13-ac99-a15c5e0096c9",
+  "enabled_by_default": true,
+  "is_libbotm_lapi": true,
+  "13_17_528_2266_global": "HealerAIO.dll"
+}

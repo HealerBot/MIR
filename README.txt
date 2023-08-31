@@ -1,13 +1,19 @@
 < Healer AIO >
+--------------
 
-----------------------------
- --[ HealerAIO Contains ]--
-----------------------------
-[Awareness]
+How to use HealerAIO:
+Download HealerAIO from your MIR client and enable it in-game! <-- [easy/auto-updates/recommended]
+ ~or~
+Download HealerAIO from here, then place HealerAIO folder inside your Mir/Scripts directory!
+
+HealerAIO includes:
+-------------------
+Awareness:
 - Healthbar HUD
 - Champion side HUD
-- Cooldown tracker
 - AA range drawings
+- Cooldown tracker
+- Experience tracker
 - Last position tracker
 - TP/Recall tracker
 - Enemy ward/vision tracker
@@ -16,29 +22,19 @@
 - Inhibitor respawn time tracker
 - ARAM health pack respawn time tracker
 
-[Utilities]
+Utilities:
 - Advanced auto leveler
 - Ward helper
 - Recall VFX
 - Auto vote for epic monster take notifications
 
-[Other]
-- HealerAIO supports both DX9/DX11 versions
+Other:
+- Supports both DX9/DX11 versions.
 
--------------------------------
- --[ How to use Healer AIO ]--
--------------------------------
-Download Healer AIO from your MIR client and enable it in-game.
--or-
-Download HealerAIO from here, then place HealerAIO folder inside your Mir/Scripts directory.
+HealerAIO Telegram servers:
+---------------------------
+Group chat: https://t.me/+WblkeWZLQEkzNGJk
+Changelogs only channel: https://t.me/+S7sW52qgSbv9ZCx1
 
--------------------------------------
- --[ Healer AIO Telegram Servers ]--
--------------------------------------
-Group chat: (https://t.me/+WblkeWZLQEkzNGJk)
-Changelogs only channel: (https://t.me/+S7sW52qgSbv9ZCx1)
-
-----------------------------
- --[ Other Contact Info ]--
-----------------------------
+Other contact info:
 Telegram: @HanBot_Healer

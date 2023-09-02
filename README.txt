@@ -4,7 +4,7 @@
 How to use HealerAIO:
 Download HealerAIO from your MIR client and enable it in-game! <-- [easy/auto-updates/recommended]
  ~or~
-Download HealerAIO from here, then place HealerAIO folder inside your Mir/Scripts directory!
+Download HealerAIO from here, then place HealerAIO folder inside your App/Scripts directory!
 
 HealerAIO includes:
 -------------------

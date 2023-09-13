@@ -2,12 +2,11 @@
   "script_entry": "HealerAIO.dll",
   "display_name": "HealerAIO",
   "author": "Healer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "../icon.png",
   "search_tags": "aio;awareness;utility;autolevel;tracker;",
   "script_uuid": "39c12018-0847-4e13-ac99-a15c5e0096c9",
   "enabled_by_default": true,
   "is_libbotm_lapi": true,
-  "13_17_528_2266_global": "HealerAIO.dll",
-  "13_17_529_525_global": "HealerAIO.dll"
+  "13_18_530_4653_global": "HealerAIO.dll"
 }

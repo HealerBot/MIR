@@ -2,7 +2,7 @@
   "script_entry": "HealerAIO.dll",
   "display_name": "HealerAIO",
   "author": "Healer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "icon": "../icon.png",
   "search_tags": "aio;awareness;utility;autolevel;tracker;",
   "script_uuid": "39c12018-0847-4e13-ac99-a15c5e0096c9",

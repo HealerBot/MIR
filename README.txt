@@ -37,4 +37,4 @@ Group chat: https://t.me/+WblkeWZLQEkzNGJk
 Changelogs only channel: https://t.me/+S7sW52qgSbv9ZCx1
 
 Other contact info:
-Telegram: @HanBot_Healer
+Telegram: @Heelor
